@@ -23,7 +23,7 @@ This is the final project for the Probability and Statistics Course offered by U
 
    [benedito faustinoni neto]: https://github.com/bfaustinoni
    [bruno f. bessa]: <https://github.com/brunofbessa>
-   [connor davissterrett]: <https://github.com/ConnorSterrett>
+   [connor davis sterrett]: <https://github.com/ConnorSterrett>
    [daniel shinoda pascoal]: <https://github.com/danielshipas>
 
    [data preparation]: <https://github.com/bfaustinoni/home_credit_repo/tree/main/home_credit/1.Data%20Prep>
