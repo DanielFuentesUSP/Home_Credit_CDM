@@ -1,10 +1,10 @@
 # HOME CREDIT - CREDIT DEFAULT MODELING: UNBANKED CUSTOMERS
 
 ### Authors  
-[Benedito Faustinoni Neto]
-[Bruno F. Bessa]
-[Connor Davis Sterrett]
-[Daniel Shinoda Pascoal]
+* [Benedito Faustinoni Neto]
+* [Bruno F. Bessa]
+* [Connor Davis Sterrett]
+* [Daniel Shinoda Pascoal]
 
 ### The project
 This is the final project for the Probability and Statistics Course offered by University of São Paulo during the spring of 2020. The dataset used in this study is provided by Home Credit on the Kaggle platform as part of a global challenge to produce the most accurate credit model.
